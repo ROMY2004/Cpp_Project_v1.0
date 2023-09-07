@@ -1,0 +1,12 @@
+﻿  league.cpp
+C:\Users\romy\Downloads\FCIS_LEAGUE\FCIS_LEAGUE\leaguefunctions.h(919,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\romy\Downloads\FCIS_LEAGUE\FCIS_LEAGUE\leaguefunctions.h(1191,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\romy\Downloads\FCIS_LEAGUE\FCIS_LEAGUE\leaguefunctions.h(1192,99): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+C:\Users\romy\Downloads\FCIS_LEAGUE\FCIS_LEAGUE\leaguefunctions.h(262): warning C4715: 'check_data_login': not all control paths return a value
+C:\Users\romy\Downloads\FCIS_LEAGUE\FCIS_LEAGUE\leaguefunctions.h(196): warning C4715: 'save_data_login': not all control paths return a value
+  league.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  FCIS_LEAGUE.vcxproj -> C:\Users\romy\Downloads\FCIS_LEAGUE\FCIS_LEAGUE\x64\Debug\FCIS_LEAGUE.exe
